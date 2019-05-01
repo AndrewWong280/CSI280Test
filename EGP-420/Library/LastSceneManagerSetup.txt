@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/andrew.wong/Downloads/DungeonArchitect/DungeonArchitect/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
